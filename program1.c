@@ -8,6 +8,6 @@ printf("enter values in natural numbers");
 }
 else{
 Z=a+b+c;
-print("value of addition is", z);
+print("value of addition is %d", z);
 }
 }
